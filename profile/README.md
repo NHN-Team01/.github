@@ -36,4 +36,4 @@
 | **주제** | **진행기간**                | **링크**                                                 | **참여자**                 | **진행 현황** |
 |--|-------------------------|--------------------------------------------------------|-------------------------|-----------|
 | Fundamentals of Java Programming | 2024.02.24 ~ 2024.03.04 | [Java Basic](https://github.com/NHN-Team01/Java-Basic) | 김산이, 김훈민, 하정수, 김용재, 나일환 | `진행 완료`    |
-| Fundamentals of Java Programming | 2024.03.04 ~ 2024.03.11 | [BreakOut](https://github.com/NHN-Team01/BreakOut) | 김산이, 김훈민, 하정수, 김용재, 나일환 | `진행 중`    |
+| Java Practical Application | 2024.03.04 ~ 2024.03.11 | [BreakOut](https://github.com/NHN-Team01/BreakOut) | 김산이, 김훈민, 하정수, 김용재, 나일환 | `진행 중`    |
